@@ -149,6 +149,18 @@ http://112.86.202.37:8112/JSBC_iptv/C10000229@JSBC
 http://112.86.202.37:8112/JSBC_iptv/C10000230@JSBC
 #EXTINF:-1 group-title="地方台",江苏教育
 http://112.86.202.37:8112/JSBC_iptv/C10000231@JSBC
+#EXTINF:-1 group-title="苏州地方台",苏州新闻综合
+https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
+#EXTINF:-1 group-title="苏州地方台",苏州社会经济
+https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
+#EXTINF:-1 group-title="苏州地方台",苏州文化生活
+https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
+#EXTINF:-1 group-title="苏州地方台",苏州电影娱乐
+https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
+#EXTINF:-1 group-title="苏州地方台",苏州生活资讯
+https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
+#EXTINF:-1 group-title="苏州地方台",苏州4K
+https://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
 #EXTINF:-1 group-title="其他",CETV-4
 http://112.86.202.37:8112/JSBC_iptv/C10000405@JSBC
 #EXTINF:-1 group-title="其他",快乐垂钓
