@@ -119,6 +119,18 @@ http://112.86.202.37:8112/JSBC_iptv/C10000202@JSBC
 http://112.86.202.37:8112/JSBC_iptv/C10000143@JSBC
 #EXTINF:-1 group-title="卫视",江苏卫视2K-2
 http://112.86.202.37:8112/JSBC_iptv/C10000156@JSBC
+#EXTINF:-1 group-title="卫视",西藏卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000450@JSBC
+#EXTINF:-1 group-title="卫视",新疆卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000451@JSBC
+#EXTINF:-1 group-title="卫视",兵团卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000452@JSBC
+#EXTINF:-1 group-title="卫视",宁夏卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000453@JSBC
+#EXTINF:-1 group-title="卫视",北京卫视4K（备用）
+http://112.86.202.37:8112/JSBC_iptv/C10000435@JSBC
+#EXTINF:-1 group-title="卫视",江苏卫视4K（备用）
+http://112.86.202.37:8112/JSBC_iptv/C10000455@JSBC
 #EXTINF:-1 group-title="江苏地方",江苏城市
 http://112.86.202.37:8112/JSBC_iptv/C10000224@JSBC
 #EXTINF:-1 group-title="江苏地方",江苏综艺
@@ -145,6 +157,10 @@ https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
 https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
 #EXTINF:-1 group-title="苏州地方台",苏州4K
 https://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
+#EXTINF:-1 group-title="其它",生活时尚
+http://112.86.202.37:8112/JSBC_iptv/C10000423@JSBC
+#EXTINF:-1 group-title="其它",卡酷少儿
+http://112.86.202.37:8112/JSBC_iptv/C10000426@JSBC
 #EXTINF:-1 group-title="其他",CETV-4
 http://112.86.202.37:8112/JSBC_iptv/C10000405@JSBC
 #EXTINF:-1 group-title="其他",快乐垂钓
